@@ -4,3 +4,6 @@
 [submodule "rust_task"]
 	path = rust_task
 	url = https://github.com/emreozenses/rust_task
+[submodule "solana-starter"]
+	path = solana-starter
+	url = https://github.com/emreozenses/solana-starter
