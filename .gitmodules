@@ -7,3 +7,6 @@
 [submodule "solana-starter"]
 	path = solana-starter
 	url = https://github.com/emreozenses/solana-starter
+[submodule "prereq-task-airdrop"]
+	path = prereq-task-airdrop
+	url = https://github.com/emreozenses/prereq-task-airdrop
